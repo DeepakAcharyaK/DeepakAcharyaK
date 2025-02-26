@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Acharya K</h1>
-<h3 align="center">A passionate MERN STACK developer from Mangalore,India</h3>
+<h3 align="center">A passionate MERN STACK | Java developer from Mangalore,India</h3>
 
-- 🌱 I’m currently learning **MongoDB,Express.js,React.js,Node.js**
+- 🌱 I’m currently learning **React.js,Java**
 
 - 👨‍💻 All of my projects are available at [https://deepakacharyak.netlify.app/](https://deepakacharyak.netlify.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack | Java**
 
 - 📫 How to reach me **deepakacharyak887@gmail.com**
 
