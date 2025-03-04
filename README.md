@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js,Java**
 
-- 👨‍💻 All of my projects are available at [https://deepakacharyak.netlify.app/](https://deepakacharyak.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://deepakacharyak.vercel.app/](https://deepakacharyak.vercel.app/)
 
 - 💬 Ask me about **MERN Stack | Java**
 
